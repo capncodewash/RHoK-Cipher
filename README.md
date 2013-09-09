@@ -16,4 +16,8 @@ RHoK-Cipher extends an existing cryptography learning environment with an exciti
 
 RHoK-Cipher was developed at the [Random Hacks of Kindness Glasgow Cybersecurity Special Event ](http://scotlandhacks.org.uk/content/rhok-glasgow-cybersecurity-special-event-2013), 7th-8th September 2013.
 
-Made with love by **Team Fairycakes**.
+Made with love by **Team Fairycakes**:
+* Lynsey Tierney
+* Ian McCulloch
+* Daniel Tsvetkov
+* Graeme West
